@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+Hi Human:
+
+Salihah hear, i like japanese things. よろしくおねがいします。
